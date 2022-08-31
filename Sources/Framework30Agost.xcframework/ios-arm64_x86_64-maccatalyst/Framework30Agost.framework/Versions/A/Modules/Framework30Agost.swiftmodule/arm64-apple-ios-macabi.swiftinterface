@@ -6,7 +6,7 @@ import Foundation
 import Package30Agost
 import Swift
 import _Concurrency
-public class Framework30Agost {
+public class Agost30 {
   public init()
   public func callPackage()
   @objc deinit
